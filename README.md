@@ -1,5 +1,4 @@
 ![logo](https://github.com/jasvant0020/jasvant0020/blob/main/assets/Banner1.png)
-)
 <h1 align="center">Hi 👋, I'm jasvant</h1>
 <h3 align="center">A Dedicated and Passionate CSE Student</h3>
 <div align="right" style="max-width: 100%; display: flex; justify-content: flex-end;">
