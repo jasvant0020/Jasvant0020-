@@ -1,4 +1,4 @@
-![logo](![17509500424615660221557146923819](https://github.com/user-attachments/assets/b3975ea4-0f85-4fc0-8441-03087f2e57cf)
+![logo](https://github.com/jasvant0020/jasvant0020/blob/main/assets/Banner1.png)
 )
 <h1 align="center">Hi 👋, I'm jasvant</h1>
 <h3 align="center">A Dedicated and Passionate CSE Student</h3>
