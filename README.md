@@ -2,7 +2,10 @@
 )
 <h1 align="center">Hi 👋, I'm jasvant</h1>
 <h3 align="center">A Dedicated and Passionate CSE Student</h3>
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div align="right" style="max-width: 100%; display: flex; justify-content: flex-end;">
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" style="width: 100%; max-width: 300px; height: auto;">
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasvant0020&label=Profile%20views&color=0e75b6&style=flat" alt="jasvant0020" /> </p>
 
