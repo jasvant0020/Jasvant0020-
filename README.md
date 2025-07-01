@@ -23,7 +23,7 @@
 - ⚡ Fun fact **Coffee + Code = Infinite Possibilities 🚀**
 - ## 🏆 Certificates
 
-- 📄 [Java Programming Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/java_certificate.pdf)
+- 📄 [Google Sheet Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-68903915-d530-4dd9-a642-585202068bdb.jpg)
 - 📄 [Python for AI Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/python_ai_certificate.pdf)
 - 📄 [DSA Mastery Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/dsa_certificate.pdf)
 
