@@ -28,8 +28,11 @@
 - 📄 [Python Programming Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-7e282842-1d20-4eee-bc2a-41faf558b15b.jpg)
 - 📄 [Blue Prism Foundation Training](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/BluePrism(180_16_364369_1704620451)_Completion%20Certificate%20-%20Course%20(1)%20(1)_page-0001.jpg)
 - 📄 [JAVA OOP Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-9ba55bb3-55b8-404a-87df-e32e43eb35b1.jpg)
+- 📄 [Cybersecurity By Rahul Mishra](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/Cyber%20security%20certificate%20by%20rahul%20_page-0001.jpg)
+- 📄 [Digital Financial Security](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/SSO-DigitalCertificate_page-0001.jpg)
+- 📄 [IIT kanpur](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/iit%20kanpur%20certificate%20_page-0001.jpg)
 
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jasvant0020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jasvant0020" height="30" width="40" /></a>
