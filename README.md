@@ -24,7 +24,9 @@
 - ## 🏆 Certificates
 
 - 📄 [Google Sheet Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-68903915-d530-4dd9-a642-585202068bdb.jpg)
+- 📄 [Revenue Streams and Pricing Tactis](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/10April_COP_Jasvant_page-0001.jpg)
 - 📄 [Python Programming Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-7e282842-1d20-4eee-bc2a-41faf558b15b.jpg)
+- 📄 [Blue Prism Foundation Training](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/BluePrism(180_16_364369_1704620451)_Completion%20Certificate%20-%20Course%20(1)%20(1)_page-0001.jpg)
 - 📄 [JAVA OOP Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-9ba55bb3-55b8-404a-87df-e32e43eb35b1.jpg)
 
 
