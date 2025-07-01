@@ -24,8 +24,8 @@
 - ## 🏆 Certificates
 
 - 📄 [Google Sheet Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-68903915-d530-4dd9-a642-585202068bdb.jpg)
-- 📄 [Python for AI Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/python_ai_certificate.pdf)
-- 📄 [DSA Mastery Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/dsa_certificate.pdf)
+- 📄 [Python Programming Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-7e282842-1d20-4eee-bc2a-41faf558b15b.jpg)
+- 📄 [JAVA OOP Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-9ba55bb3-55b8-404a-87df-e32e43eb35b1.jpg)
 
 
 <h3 align="left">Connect with me:</h3>
