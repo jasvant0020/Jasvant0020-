@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasvant0020&label=Profile%20views&color=0e75b6&style=flat" alt="jasvant0020" /> </p>
 
-- 🔭 I’m currently working on [Project Argus](https://github.com/jasvant0020/Project-Argus-)
+- 🔭 I’m currently working on [VisionVault](https://github.com/jasvant0020/VisionVault)
 
 - 🌱 I’m currently learning **DSA and OOP with JAVA**
 
-- 👯 I’m looking to collaborate on [Project Argus](https://github.com/jasvant0020/Project-Argus-)
+- 👯 I’m looking to collaborate on [VisionVault](https://github.com/jasvant0020/VisionVault)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasvant0020](https://github.com/jasvant0020)
 
